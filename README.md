@@ -2,8 +2,8 @@
 Currently a work in progress
 Known issues: - duplicate letters do not show in turn 0
               - if guess is the entire alphabet you win game
+
 Ver. 0.0.1
-Version history: 0.0.1 - base
 
 Copyright 2021 SquaredCo.
 
